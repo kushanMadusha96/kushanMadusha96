@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm kushan madusha</h1>
 <h3 align="center">A Software Enginner from from srilanka</h3>
-<img "https://www.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1157693.htm#query=man&position=3&from_view=search&track=sph" alt="image">
+<img src="https://www.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1157693.htm#query=man&position=3&from_view=search&track=sph" alt="image">
 
 
 - 🔭 I’m currently working on [message app](https://github.com/kushanMadusha96/kushanMadusha96.git)
