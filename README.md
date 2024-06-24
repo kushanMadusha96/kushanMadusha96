@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm kushan madusha</h1>
-<h3 align="center">A Software Enginner from from srilanka</h3>
+<!-- <h3 align="center">A Software Enginner from from srilanka</h3> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 - 🔭 I’m currently working on [message app](https://github.com/kushanMadusha96/kushanMadusha96.git)
 
